@@ -1,3 +1,4 @@
+
 import Link from "next/link";
 
 const Navbar = () => {
@@ -17,8 +18,8 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link href="/services" className="text-white hover:text-gray-300">
-              Services
+            <Link href="/eventexmpl" className="text-white hover:text-gray-300">
+              Event
             </Link>
           </li>
           <li>
