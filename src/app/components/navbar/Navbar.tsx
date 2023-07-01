@@ -23,8 +23,8 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link href="/contact" className="text-white hover:text-gray-300">
-              Contact
+            <Link href="/usestate   " className="text-white hover:text-gray-300">
+              UseState
             </Link>
           </li>
         </ul>
