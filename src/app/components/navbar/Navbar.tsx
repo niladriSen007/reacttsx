@@ -23,8 +23,13 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link href="/usestate   " className="text-white hover:text-gray-300">
+            <Link href="/usestate" className="text-white hover:text-gray-300">
               UseState
+            </Link>
+          </li>
+          <li>
+            <Link href="/theme" className="text-white hover:text-gray-300">
+              Theme
             </Link>
           </li>
         </ul>
